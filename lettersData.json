@@ -1,0 +1,11 @@
+[
+  {
+    "to": "elenka220890@mail.ru",
+    "subject": "Selenium Test data provider",
+    "text": "Hi!",
+    "files":[
+      ".\\pics\\1.txt",
+      ".\\pics\\2.txt"
+    ]
+  }
+]
